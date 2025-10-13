@@ -11,7 +11,7 @@
 
 ## 📺 Live Demo
 
-A complete walkthrough of the SurakshaNET prototype, showcasing its mission-critical features and the Vanguard HQ command dashboard.
+A complete walkthrough of the SurakshaNET prototype, showcasing its mission-critical features and the HQ command dashboard.
 
 **(https://www.youtube.com/watch?v=nWvSZPGzyko)**
 
@@ -49,7 +49,7 @@ Our functional prototype showcases a suite of innovative, user-centric security 
 -   **Dual-Theme System:** A standard "Military Green" theme and a low-light "Stealth Mode" for covert operations.
 -   **Categorized Chat Lists:** In Stealth Mode, chats are automatically organized into "OPERATIONAL" and "FAMILY & PERSONAL" for better information management.
 
-### 司令 Command & Control (HQ Dashboard)
+### Command & Control (HQ Dashboard)
 -   **Real-time Monitoring:** A comprehensive dashboard with live statistics on active users, threats blocked, and system health.
 -   **Live Activity & Audit Logs:** A filterable, searchable feed of all user and system activities for complete oversight.
 -   **Role-Based Access Control (RBAC):** A sophisticated interface for managing granular user permissions and roles.
@@ -100,8 +100,9 @@ Follow these instructions to run the prototype on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[YourUsername]/[YourRepoName].git
-    cd [YourRepoName]
+    git clone https://github.com/dimension-drifter/suraksha-net.git
+    cd suraksha-net
+
     ```
 
 2.  **Run the Mobile Application (SurakshaNET):**
